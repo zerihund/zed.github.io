@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f8be9090-949e-473e-a221-6330fced1cd5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/img/projects/thingsee.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/work.html" beforeDir="false" afterPath="$PROJECT_DIR$/work.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -43,14 +41,14 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="css" value="6" />
+          <entry key="css" value="15" />
           <entry key="html" value="145" />
           <entry key="txt" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="CSS" value="6" />
+          <entry key="CSS" value="15" />
           <entry key="HTML" value="145" />
           <entry key="PLAIN_TEXT" value="3" />
         </counts>
@@ -68,16 +66,16 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="386">
-              <caret line="53" column="40" selection-start-line="53" selection-start-column="40" selection-end-line="53" selection-end-column="40" />
+            <state relative-caret-position="192">
+              <caret line="189" column="17" selection-start-line="189" selection-start-column="17" selection-end-line="189" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/work.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="442">
@@ -116,6 +114,11 @@
       </file>
     </leaf>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>.projec</find>
+    </findStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -125,8 +128,8 @@
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/contact.html" />
         <option value="$PROJECT_DIR$/about.html" />
-        <option value="$PROJECT_DIR$/css/main.css" />
         <option value="$PROJECT_DIR$/work.html" />
+        <option value="$PROJECT_DIR$/css/main.css" />
       </list>
     </option>
   </component>
@@ -142,7 +145,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-30" />
     <option name="width" value="2005" />
     <option name="height" value="1990" />
@@ -247,7 +250,7 @@
       <updated>1541236147987</updated>
       <workItem from="1541236149512" duration="3342000" />
       <workItem from="1543146917553" duration="2705000" />
-      <workItem from="1543662874242" duration="2290000" />
+      <workItem from="1543662874242" duration="2822000" />
     </task>
     <task id="LOCAL-00001" summary="msg">
       <created>1543147822430</created>
@@ -260,7 +263,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8337000" />
+    <option name="totallyTimeSpent" value="8869000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1549" height="837" extended-state="6" />
@@ -314,13 +317,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="386">
-          <caret line="53" column="40" selection-start-line="53" selection-start-column="40" selection-end-line="53" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/img/projects/Ironkomodo.PNG">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -335,6 +331,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="442">
           <caret line="106" column="9" lean-forward="true" selection-start-line="106" selection-start-column="9" selection-end-line="106" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="189" column="17" selection-start-line="189" selection-start-column="17" selection-end-line="189" selection-end-column="17" />
         </state>
       </provider>
     </entry>
