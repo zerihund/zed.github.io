@@ -92,6 +92,18 @@
 
 * {
   box-sizing: border-box; }
+span {
+  display: block;
+  font-weight: 400;
+  font-size: 0.8em;
+  color: white;
+}
+.menu-contact {
+  color: #dddddd;
+  margin-left: 14vw;
+  margin-top: 4vh;
+  animation-delay: 0.2s;
+}
 
 body {
   background: #444;
